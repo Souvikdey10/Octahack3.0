@@ -25,6 +25,7 @@ Official Entry of Team CODEWARTS, from SRM Institute of Science and Technology, 
 * 2nd Prize
 * 3rd Prize
 * Participants Perks
+![Screenshot (712)](https://user-images.githubusercontent.com/71955737/99895336-0aad6700-2cae-11eb-9d58-d6be1c3b4fed.png)
 ## Collaborators 🤖
 * [Souvik Dey](https://github.com/Souvikdey10) 
 * [N. Aditya Sai](https://github.com/aadityasai37) 
