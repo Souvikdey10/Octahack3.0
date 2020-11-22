@@ -24,11 +24,6 @@ Official Entry of Team CODEWARTS, from SRM Institute of Science and Technology, 
 * 2nd Prize
 * 3rd Prize
 * Participants Perks
-* Best use of echoAR
-* SashiDO ML Challenge
-* Best Jugaad
-* Best Hardware Hack Sponsored by Digi-Key
-* Best Beginner Hackers
 ## Collaborators 🤖
 * [Souvik Dey](https://github.com/Souvikdey10) 
 * [N. Aditya Sai](https://github.com/aadityasai37) 
