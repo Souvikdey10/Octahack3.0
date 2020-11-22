@@ -30,6 +30,6 @@ Official Entry of Team CODEWARTS, from SRM Institute of Science and Technology, 
 * Best Hardware Hack Sponsored by Digi-Key
 * Best Beginner Hackers
 ## Collaborators 🤖
-* [Souvik Dey](https://github.com/Souvikdey10) - Team Lead
+* [Souvik Dey](https://github.com/Souvikdey10) 
 * [N. Aditya Sai](https://github.com/aadityasai37) 
-* [Adarsh Anil](https://github.com/adarshanil)
+* [Adarsh Anil](https://github.com/adarshanil) - Team Lead
