@@ -6,3 +6,5 @@ Official Entry of Team CODEWARTS, from SRM Institute of Science and Technology, 
 * [Instagram](https://www.instagram.com/dsc_ciet/)
 * [Twitter](https://twitter.com/dscciet)
 * [Linkedln](https://www.linkedin.com/company/dsc-ciet/)
+## About OctaHAcks 3.0 👀
+ OctaHacks is the annual flagship event of DSC, Chitkara University, where innovators get an opportunity to merge their creative ideas with their technical skills to build something exemplary. It's a place where your ideas will get acknowledged.OctaHacks 3.0. Expect more than 36 hours of inspiring panel discussions, working and collaborating on futuristic and empowering tech products, networking opportunities with budding developres and lots of fun!
